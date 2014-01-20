@@ -1,0 +1,19 @@
+TABLE DATA:
+
+Two columns: Link to trailer, Theaters playing
+
+Row 1
+<a href="https://www.youtube.com/watch?v=1Iltd9P48O4">Lone Survivor</a>
+Loews Waterfront 22; Carmike 10 Pittsburgh
+
+Row 2
+<a href="https://www.youtube.com/watch?v=91y7Z58feeo">Frozen</a>
+Carmike Southland 9; Loews Waterfront 22
+
+Row 3
+<a href="https://www.youtube.com/watch?v=09Dab6cMe7s">American Hustle</a>
+Loews Waterfront 22; Cinemark Robinson
+
+Row 4
+<a href="https://www.youtube.com/watch?v=B6vaxl0dryc">Saving Mr. Banks</a>
+Carmike Galleria 6; Carmike Southland 9

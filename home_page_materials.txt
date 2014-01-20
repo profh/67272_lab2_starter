@@ -1,0 +1,53 @@
+===================================
+SOME CONTENT FOR THE MAIN COLUMN:
+-----------------------------------
+<h2>Welcome to PGH Movie Reviews</h2>
+  <p>This site was created to review and spotlight movies filmed here in Pittsburgh, PA. If it wasn't created here in Pittsburgh, then who the heck really cares? It may sound a bit parochial, but frankly we don't care. Pittsburgh is not just the city of sports champions, but it is one of the movie capitals of the world. <em>(We concede first-place to Hollywood, CA, but after that it is the 'Burgh!)</em> Relax and enjoy our awesome site highlighting great Pittsburgh movies.</p>
+<p>
+	<!-- display the trailer for Dark Knight Rises -->
+	<h3>Spotlight: The Dark Knight Rises</h3>
+	<iframe width="480" height="360" src="http://www.youtube.com/embed/7gFwvozMHR4" frameborder="0" allowfullscreen></iframe>
+</p>
+
+
+===================================
+SOME CONTENT FOR THE SIDE BUCKET:
+-----------------------------------
+<h2>Filmed in the 'Burgh</h2>
+<p>Many people don't realize how realize how popular Pittsburgh is as a filming location. Below are just a few of the movies in the last decade or so that were filmed in Pittsburgh:</p>
+<ul>
+	<li><a href="#">Dark Knight Rises</a>&nbsp;</li>
+	<li><a href="#">Love and Other Drugs</a></li>
+	<li><a href="#">I Am Number Four</a></li>
+	<li><a href="#">Unstoppable</a></li>
+	<li><a href="#">Abduction</a></li>
+	<li><a href="#">Smart People</a></li>
+	<li><a href="#">Wonder Boys</a></li>
+	<li><a href="#">Flashdance</a></li>
+	<li><a href="#">Dawn of the Dead</a></li>
+	<li><a href="#">The Mothman Prophecies</a></li>
+	<li><a href="#">The Mysteries of Pittsburgh</a></li>
+</ul>
+
+
+===================================
+SOME CONTENT FOR THE FOOTER:
+-----------------------------------
+<div class="small-6 small-centered large-centered columns">
+  <a href="#">Home</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+  <a href="#">About Us</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+  <a href="#">Contact Us</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+  <a href="#">Back to top</a>
+  <div id="copyright">
+    <br />Webmaster: 
+      <script type="text/javascript">
+      <!--
+        // protected email script by Joe Maller. JavaScripts available at http://www.joemaller.com
+        // this script is free to use and distribute but please credit me and/or link to my site
+        emailE=('profh' + '@cmu.edu')
+        document.write('<a href="mailto:' + emailE + '">' + 'Prof. H' + '</a>')
+      //-->
+      </script>
+    &nbsp;&nbsp;Copyright 2014 <a href="#">Tick Productions</a>
+  </div>
+</div>
