@@ -3,17 +3,35 @@ TABLE DATA:
 Two columns: Link to trailer, Theaters playing
 
 Row 1
-<a href="https://www.youtube.com/watch?v=1Iltd9P48O4">Lone Survivor</a>
-Loews Waterfront 22; Carmike 10 Pittsburgh
+<a href="https://www.youtube.com/watch?v=5bP1f_1o-zo">American Sniper</a>
+Loews Waterfront 22; Southside Works
 
 Row 2
-<a href="https://www.youtube.com/watch?v=91y7Z58feeo">Frozen</a>
-Carmike Southland 9; Loews Waterfront 22
+<a href="https://www.youtube.com/watch?v=S5CjKEFb-sM">The Imitation Game</a>
+Manor Theatre; Loews Waterfront 22
 
 Row 3
-<a href="https://www.youtube.com/watch?v=09Dab6cMe7s">American Hustle</a>
-Loews Waterfront 22; Cinemark Robinson
+<a href="https://www.youtube.com/watch?v=x6t7vVTxaic">Selma</a>
+Loews Waterfront 22; Waterworks Cinemas
 
 Row 4
-<a href="https://www.youtube.com/watch?v=B6vaxl0dryc">Saving Mr. Banks</a>
-Carmike Galleria 6; Carmike Southland 9
+<a href="https://www.youtube.com/watch?v=3PkkHsuMrho">Hunger Games: Mockingjay</a>
+Rave Cinemas North; Carmike 10
+
+===============================
+===============================
+
+SIDEBAR DATA:
+
+	Below is a list of the ten most popular films in Pittsburgh last week based on box office revenues generated:
+
+    <li><a href="#">Taken 3</a></li>
+    <li><a href="#">Selma</a></li>
+    <li><a href="#">Into the Woods</a></li>
+    <li><a href="#">The Hobbit, Part III</a></li>
+    <li><a href="#">Unbroken</a></li>
+    <li><a href="#">The Imitation Game</a></li>
+    <li><a href="#">Annie</a></li>
+    <li><a href="#">Night at the Museum 2</a></li>
+    <li><a href="#">Hunger Games: Mockingjay</a></li>
+    <li><a href="#">Big Hero 6</a></li>

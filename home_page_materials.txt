@@ -33,13 +33,13 @@ SOME CONTENT FOR THE SIDE BUCKET:
 ===================================
 SOME CONTENT FOR THE FOOTER:
 -----------------------------------
-<div class="small-6 small-centered large-centered columns">
+<div class="col s12 m6 offset-m3 center">
   <a href="#">Home</a>&nbsp;&nbsp;::&nbsp;&nbsp;
   <a href="#">About Us</a>&nbsp;&nbsp;::&nbsp;&nbsp;
   <a href="#">Contact Us</a>&nbsp;&nbsp;::&nbsp;&nbsp;
   <a href="#">Back to top</a>
   <div id="copyright">
-    <br />Webmaster: 
+    <br />Webmaster:
       <script type="text/javascript">
       <!--
         // protected email script by Joe Maller. JavaScripts available at http://www.joemaller.com
@@ -48,6 +48,10 @@ SOME CONTENT FOR THE FOOTER:
         document.write('<a href="mailto:' + emailE + '">' + 'Prof. H' + '</a>')
       //-->
       </script>
-    &nbsp;&nbsp;Copyright 2014 <a href="#">Tick Productions</a>
+    &nbsp;&nbsp;Copyright 2015 <a href="#">Tick Productions</a>
+    <br /><br />
   </div>
 </div>
+
+
+

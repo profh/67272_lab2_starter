@@ -3,33 +3,28 @@
 <head>
   <title>Pittsburgh Movie Reviews</title>
   <meta name="author" content="YOUR NAME HERE">
-  <link rel="stylesheet" href="css/foundation.css" type="text/css">
-  <link rel="stylesheet" href="css/normalize.css" type="text/css">
+  <link rel="stylesheet" href="css/materialize.css" type="text/css">
+  <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 
 </head>
 <body>
   <!-- NAVIGATION -->
-  <div class="contain-to-grid">
-    <nav class="top-bar" data-topbar>
-      <ul class="title-area">
-        <li class="name">
-          <h1><a href="home.html">PGH Movie Reviews</a></h1>
-        </li>
+    <nav class="blue lighten-1">
+    <div class="nav-wrapper container">
+      <a href="home.html" class="brand-logo light">PGH Movie Reviews</a>
+      <ul id="nav-mobile" class="right side-nav">
+        <li><a href="theaters.html">In Theaters</a></li>
+        <li class="active"><a href="report.html">Report a Movie</a></li>
       </ul>
+      <a class="button-collapse" href="#" data-activates="nav-mobile"><i class="mdi-navigation-menu"></i></a>
+    </div>
+  </nav>
 
-      <section class="top-bar-section">
-        <ul class="left">
-          <li><a href="theaters.html">In Theaters</a></li>
-          <li><a href="report.html">Report a Movie</a></li>
-        </ul>
-      </section>
-    </nav>
-  </div>
-
-  <div class="row">
-    <div class="small-7 columns">
-      <h2>Good? Bad? Let Us Know</h2>
-      <!-- <p>Seen a great movie in Pittsburgh?  Had a bad experience at the theater?  Just want to sound off?  Here is your chance to tell us what is on your mind regarding movies in the Greater Pittsburgh area.  Be aware that we are not actually bothering to record this information because, quite honestly, we don't care what the unwashed masses like you think anyways, so why bother?  Have fun giving us meaningless feedback. <em>(Aren't you glad we are at least honest about it?)</em></p> -->
+  <div class="container">
+    <div class="row">
+      <div class="col s12 m7">
+        <h3 class="light">Good? Bad? Let Us Know</h3>
+        <!-- <p>Seen a great movie in Pittsburgh?  Had a bad experience at the theater?  Just want to sound off?  Here is your chance to tell us what is on your mind regarding movies in the Greater Pittsburgh area.  Be aware that we are not actually bothering to record this information because, quite honestly, we don't care what the unwashed masses like you think anyways, so why bother?  Have fun giving us meaningless feedback. <em>(Aren't you glad we are at least honest about it?)</em></p> -->
 
       <!-- START FORM -->
 
@@ -46,10 +41,8 @@
       <!-- END FORM -->
 
     </div>
-    <div class="small-1 columns">
-      &nbsp;
-    </div>
-    <div class="small-4 columns">
+
+    <div class="col s12 m4 offset-m1">
       <!-- <p>&nbsp;</p> -->
       <br />
         <h3>Now for something completely different...</h3>
@@ -68,6 +61,15 @@
     <!-- footer content goes here -->
 
   </footer>
+
+  <script src="js/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.min.js"></script>
+  <script type="text/javascript">
+  $( document ).ready(function(){
+    $(".button-collapse").sideNav();
+		
+  });
+  </script>
 
 </body>
 </html>
